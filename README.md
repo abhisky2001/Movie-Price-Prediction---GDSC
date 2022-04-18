@@ -1,4 +1,4 @@
-# Movie-Price-Prediction---GDSC
+# Movie-Revenue-Prediction---GDSC
 
 ## TASK: Predicting Revenue of Movies
 
